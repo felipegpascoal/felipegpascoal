@@ -102,3 +102,4 @@ Estudante de Sistemas de Informação com foco em desenvolvimento back-end usand
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegpascoal&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<img src="https://raw.githubusercontent.com/felipegpascoal/felipegpascoal/output/snake.svg" alt="Snake animation" />
